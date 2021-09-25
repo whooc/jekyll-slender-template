@@ -1,28 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "中文适应性测试!"
 color:  teal
 width:   6 
 height:  1
 date:   2016-03-30 11:31:49 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+在一片茂密的森林里，有一个神奇的动物王国。小象是动物王国里一位非常有名的魔法师，它拥有一本可以变大变小的魔法书。</p>
+<p>　　一天，小象出去散步，一阵微风吹过，湖面泛起了层层波纹。这时，它看到了小兔一家正在田地中拔一个又大又红的胡萝卜。小象赶紧用魔法书变成了一把很神奇的铲子，小兔子在田地中用铲子一铲，胡萝卜便被挖出来了。小兔子谢过小象后，与家人们一同把胡萝卜搬回家了。</p>
+<p>　　小象走啊走啊，突然，天空变得阴沉沉的，这时候，天空下起了大雨。小象赶紧念咒语，魔法书立刻变成了一把雨伞，为走在雨中的小象挡雨。</p>
+<p>　　小猴得知小象有一本魔法的书，在森林中找来找去，终于在小河边找到了小象。原来，小猴正愁今天作业太多了，又不想写，又不想挨批评，所以希望魔法书帮自己写作业。于是，小象把魔法书给了小猴，小猴见了，高高兴兴地回家了。</p>
+<p>　　可是，魔法书根本不帮小猴写作业。正当小猴急得像热锅上的蚂蚁时，魔法书便开口说：“你坐享其成，魔法书是不会帮助你的！”小猴听了很羞愧。</p>
+<p>　　原来，小象的魔法书可以帮助很多人，但不会帮助坐享其成的人。</p>
