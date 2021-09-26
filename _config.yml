@@ -10,8 +10,8 @@ title: 可能 爱了
 email: info@whooc.com
 description: > # this means to ignore newlines until "baseurl:"
   可能爱了& KN.AL, info@whooc.com
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jekyll-slender-template.pages.dev" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kn.al" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
